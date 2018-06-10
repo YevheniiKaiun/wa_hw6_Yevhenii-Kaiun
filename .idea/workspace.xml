@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72b0709a-39b7-4f04-9ef1-d90824fbe176" name="Default" comment="">
+    <list default="true" id="72b0709a-39b7-4f04-9ef1-d90824fbe176" name="Default" comment="commit 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-prem.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/hw6_grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/hw6_grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles-prem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/catalog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.email opsbro17@gmail.com" beforeDir="false" />
     </list>
     <list id="fa311c81-a187-4cbe-b899-cc15648b3603" name="New changelist" comment="New changelist" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,41 +25,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hw6_index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw6_index.html">
+      <file leaf-file-name="hw6styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw6styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hw6_styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw6_styles.css">
+      <file leaf-file-name="hw6index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw6index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hw6menu.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/hw6menu.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="hw6_menu.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/hw6_menu.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hw6_grid.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/hw6_grid.css">
+      <file leaf-file-name="hw6grid.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/hw6grid.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="hw6_bace.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/hw6_bace.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
+      <file leaf-file-name="hw6bace.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/hw6bace.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -66,11 +68,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles/catalog.css" />
-        <option value="$PROJECT_DIR$/hw6_index.html" />
         <option value="$PROJECT_DIR$/styles/hw6_menu.css" />
         <option value="$PROJECT_DIR$/styles/hw6_bace.css" />
         <option value="$PROJECT_DIR$/index-prem.html" />
         <option value="$PROJECT_DIR$/styles/hw6_grid.css" />
+        <option value="$PROJECT_DIR$/hw6_index.html" />
+        <option value="$PROJECT_DIR$/hw6styles.css" />
+        <option value="$PROJECT_DIR$/hw6index.html" />
       </list>
     </option>
   </component>
@@ -83,7 +87,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="518" />
     <option name="y" value="6" />
     <option name="width" value="1214" />
@@ -149,24 +153,42 @@
       <workItem from="1528565258804" duration="1971000" />
       <workItem from="1528568080179" duration="932000" />
       <workItem from="1528586505945" duration="422000" />
-      <workItem from="1528643633559" duration="270000" />
+      <workItem from="1528643633559" duration="1058000" />
+      <workItem from="1528644725172" duration="202000" />
+      <workItem from="1528644980126" duration="645000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <created>1528644041392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528644041392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 1">
+      <created>1528645509764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528645509764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="317000" />
+    <option name="totallyTimeSpent" value="1952000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115911484" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.27342048" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.4509804" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4291939" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25925925" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -210,7 +232,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hw6_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/hw6_menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/hw6_grid.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/hw6_bace.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -256,13 +313,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/lesson_6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/lesson_6/index.html" />
     <entry file="file://$PROJECT_DIR$/styles/hw6_menu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -298,13 +349,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/lesson_6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/lesson_6/index.html" />
     <entry file="file://$PROJECT_DIR$/styles/hw6_menu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -356,13 +401,7 @@
         <state relative-caret-position="-3417" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/lesson_6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/lesson_6/index.html" />
     <entry file="file://$PROJECT_DIR$/styles/catalog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -377,32 +416,59 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/hw6_bace.css">
+    <entry file="file://$PROJECT_DIR$/hw6_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="598">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/hw6_menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/hw6_grid.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/hw6_menu.css">
+    <entry file="file://$PROJECT_DIR$/styles/hw6_bace.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_styles.css">
+    <entry file="file://$PROJECT_DIR$/styles/hw6menu.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/hw6grid.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/hw6bace.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
